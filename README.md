@@ -30,7 +30,7 @@
 
 **Question 2 (Tutorial 9 -- Q2)**
 
-Write a Java method called circleArea**()** that take the radius of a
+Write a Java method called circleArea() that take the radius of a
 circle as an argu-ment/parameter, then calculate area and return the
 area.
 
