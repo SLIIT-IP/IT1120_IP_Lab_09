@@ -35,7 +35,7 @@ circle as an argu-ment/parameter, then calculate area and return the
 area.
 
 In the Main Method, read the radius value as an user input via keyboard,
-then call the **circleArea()** method to display the result.
+then call the circleArea() method to display the result.
 
 Save the file inside **'Lab 9'** folder as: **ITxxxxxxxxLab9Q2.java**
 Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
