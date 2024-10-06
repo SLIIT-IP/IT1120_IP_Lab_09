@@ -52,7 +52,9 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
   Write three Java methods do the following
 
 > • **add()** -- add two integers pass as parameters and return the result.
+> 
 > • **multiply()** -- multiply two integers pass as parameters and return the result.
+> 
 > • **square()** -- receive an integer as a parameter and return the result after multiplying the number by itself.
 
 Use the above methods in the Main Method to calculate the result of the following mathematical expressions:
