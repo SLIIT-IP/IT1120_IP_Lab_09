@@ -76,6 +76,8 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 
 **Question 4 (Tutorial 9 -- Q4)**
 
+Write a Java program to calculate the Final Mark and Grade of 5 students for a subject.
+
 > a\) Write a Java method called **calcFinalMark()** to calculate the final mark of the subject. When calculating the final mark, 30% is taken from the assignment mark and 70% is taken from the exam paper mark. Method should return the final mark
 >
 > 
