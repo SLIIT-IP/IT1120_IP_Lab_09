@@ -60,6 +60,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Use the above methods in the Main Method to calculate the result of the following mathematical expressions:
 
 > i. (3 *∗*4 + 5 *∗*7)2
+> 
 > ii. (4 + 7)2+ (8 + 3)2
 
 Save the file inside **'Lab 9'** folder as: **ITxxxxxxxxLab9Q3.java**
